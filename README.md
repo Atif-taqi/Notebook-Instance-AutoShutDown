@@ -1,4 +1,4 @@
-# SageMaker Instance AutoShutDown with Python and Terraform
+# AutoShutDown with Python and Terraform - SageMaker Instance
 
 [![Build](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
